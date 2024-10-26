@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+   * {
+      margin: 0 ;
+      padding: 0;
+      box-sizing: border-box;
+      /* max-width: 1440px; */
+    
+     } 
+/* 
+    .img{
+      width: 40vw;
+      height: 90vh;
+    }
+
+    .input{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      background-color: #E8E5E5;
+      width: 40vw;
+    }
+
+    form{
+      display: flex;
+    } */
